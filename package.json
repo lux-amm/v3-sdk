@@ -1,6 +1,6 @@
 {
   "name": "@luxamm/v3-sdk",
-  "version": "1.0.0",
+  "version": "3.30.0",
   "description": "Lux AMM V3 SDK. Fork of upstream Uniswap v3-sdk.",
   "repository": "git+https://github.com/lux-amm/v3-sdk.git",
   "keywords": [
@@ -66,8 +66,7 @@
     "singleQuote": true
   },
   "publishConfig": {
-    "access": "public",
-    "provenance": true
+    "access": "public"
   },
   "homepage": "https://luxamm.io"
 }
