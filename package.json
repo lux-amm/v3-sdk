@@ -1,6 +1,6 @@
 {
   "name": "@luxamm/v3-sdk",
-  "version": "3.30.0",
+  "version": "3.30.1",
   "description": "Lux AMM V3 SDK. Fork of upstream Uniswap v3-sdk.",
   "repository": "git+https://github.com/lux-amm/v3-sdk.git",
   "keywords": [
@@ -37,7 +37,7 @@
     "@ethersproject/abstract-signer": "^5.7.0",
     "@ethersproject/address": "^5.0.2",
     "@ethersproject/solidity": "^5.0.9",
-    "@luxamm/sdk-core": "workspace:*",
+    "@luxamm/sdk-core": "^7.13.0",
     "@luxamm/swap-router-contracts": "^1.3.0",
     "@luxamm/v3-periphery": "^1.1.1",
     "@luxamm/v3-staker": "1.0.0",
@@ -48,7 +48,7 @@
   },
   "devDependencies": {
     "@typescript-eslint/parser": "^5.0.0",
-    "@luxamm/v3-core": "1.0.0",
+    "@luxamm/v3-core": "^1.0.104",
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-config-react-app": "7.0.1",
